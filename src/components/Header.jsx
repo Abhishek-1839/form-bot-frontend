@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import CloseOutlinedIcon from "@mui/icons-material/CloseOutlined";
 import ArrowDropDownIcon from "@mui/icons-material/ArrowDropDown";
 import Dropdown from "./Dropdown";
-import styles from "../pages/Dashboard.module.css";
+import styles from "src/pages/DashBoard.module.css";
 import WorkspaceSwitcher from "./WorkspaceSwitcher";
 import { useDispatch, useSelector } from "react-redux";
 import {
