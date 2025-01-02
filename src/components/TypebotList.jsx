@@ -1,6 +1,6 @@
 import React, { useMemo } from "react";
 import DeleteForeverOutlinedIcon from "@mui/icons-material/DeleteForeverOutlined";
-import styles from "../pages/dashboard.module.css";
+import styles from "./TypebotList.module.css";
 import { useSelector } from "react-redux";
 import { selectWorkspaceLoading } from "../redux/workspaceSlice";
 

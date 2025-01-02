@@ -1,6 +1,6 @@
 import React from "react";
 import CreateNewFolderOutlinedIcon from "@mui/icons-material/CreateNewFolderOutlined";
-import styles from "../pages/dashboard.module.css";
+import styles from "./WorkspaceActions.module.css";
 
 const WorkspaceActions = ({ openModal }) => (
     <div className={styles.addFolder}>

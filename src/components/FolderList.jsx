@@ -1,6 +1,6 @@
 import React, { useEffect } from "react";
 import DeleteForeverOutlinedIcon from "@mui/icons-material/DeleteForeverOutlined";
-import styles from "../pages/Dashboard.module.css";
+import styles from "./FolderList.module.css";
 import { fetchWorkspaces} from "../redux/workspaceSlice";
 import { useDispatch, useSelector } from "react-redux";
 

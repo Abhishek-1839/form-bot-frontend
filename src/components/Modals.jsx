@@ -1,5 +1,5 @@
 import React from 'react';
-import styles from '../pages/Dashboard.module.css';
+import styles from './Modals.module.css';
 import linevert from "../image/line.png";
 
 const Modals = ({

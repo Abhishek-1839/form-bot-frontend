@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import styles from '../pages/Dashboard.module.css';
+import styles from './CreateFloderModal.module.css';
 
 const CreateFolderModal = ({ 
   isOpen, 
