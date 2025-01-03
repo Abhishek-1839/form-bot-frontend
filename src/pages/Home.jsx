@@ -186,7 +186,7 @@ const Home = () => {
                     </ul>
                 </div>
                 <div className={styles.section}>
-                    <h4 className={styles.heading}>Company </h4>
+                    <h4 className={styles.heading}>Company_</h4>
                     <ul>
                         <li>
                             <a href="#" target="_blank" rel="noopener noreferrer">
