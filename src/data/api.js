@@ -4,7 +4,7 @@ import axios from "axios";
 
 const api = axios.create({
     // baseURL: "http://localhost:3000",
-    baseURL: import.meta.env.VITE_BACKEND_BASE_URL,
+    baseURL: "https://form-bot-backend-i74z3ijjx-abhishek-1839s-projects.vercel.app",
     headers: {
         "Content-Type": "application/json",
     },
